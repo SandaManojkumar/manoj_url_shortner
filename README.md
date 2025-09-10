@@ -131,8 +131,3 @@ npm start
 
 Feel free to fork and create PRs to improve the boilerplate!
 
----
-
-## 📄 License
-
-MIT © 2025 [Kaushikk](https://github.com/kaushikkumarbz)
