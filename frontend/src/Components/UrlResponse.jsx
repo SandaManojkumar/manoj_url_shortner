@@ -8,6 +8,7 @@ const obj = new Service();
 export default function UrlResponse(props) {
     const clipboard = useClipboard({ timeout: 500 });
     const surl = obj.getBaseURL() + '/api/s/' + props?.response?.shortCode;
+    
     return (
         <div>
             <Text size="xl">ShortenUrl</Text>
